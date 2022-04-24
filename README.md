@@ -13,7 +13,7 @@ Oh, some space and patients too..
 2. Download the script or clone the repository
 
 ```shell
-git clone https://github.com/AnoRebel/Metasploit-Termux.git
+git clone https://github.com/hoed/Metasploit-Termux.git
 ```
 
 3. Run the script
